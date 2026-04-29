@@ -26,3 +26,10 @@
     <li>https://www.youtube.com/watch?v=RE6QmJ2Qk3o</li>
   </ul>
 <hr>
+<h3>Miniguia</h3>
+<p>Com essa ferramenta não temos somente um guia de personagens jogaveis e não jogaveis, também temos a introdução de diversas histórias</p>
+<code>Enquanto a sombra da cidadela flutuante de Arkanus encobre o horizonte, um pulso de energia instável — um Surto de Magia Selvagem provocado por uma brecha no sistema central — desperta capacidades latentes em indivíduos inesperados. Vocês são esses indivíduos: heróis cujos antecedentes variam de órfãos das ruas a nobres destronados, agora unidos pela necessidade de sobreviver e resistir ao avanço do tirano. Preparem suas fichas de personagem, determinem seus atributos e definam suas motivações e ideais, pois a jornada para desvendar os segredos deste mundo tecnológico e medieval começa agora!</code>
+<p> a ontrodução acima é apenas a parte final, nos chamando para desbravar esse mundo.</p>
+<hr>
+<p>Segue o Prompt utilizado para gerar essa introdução</p>
+<strong><code>para um jogo futurista, mas com tematicas medievais, um mundo onde a mágia é a tecnologia, faça a introdução do vilão um texto com 3 paragrafos para nos introduzir no mundo e comoçarmos a aventura da criação de nosso personagem</code></strong>
